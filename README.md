@@ -1,2 +1,6 @@
 # project-clematis
-Ideas and test code for Engine control on an FPGA
+Open source Engine control on an FPGA
+
+
+## Status
+Planning stage, see issues for progress
